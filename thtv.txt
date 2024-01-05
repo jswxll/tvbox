@@ -35,8 +35,12 @@ CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212261
 CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 📛卫视,#genre#
+凤凰中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/v1_index.m3u8
+凤凰中文,http://210.210.155.37/session/731a29e6-ab8f-11ee-ab85-8ca0a7930c50/uq2663/h/h157/S4/mnf.m3u8
 凤凰中文,http://141.95.85.201:6666/livehttpplay?channel_id=30014&fbl=$GWXL超清
+凤凰资讯,https://edge1.laotv.la/live/PhoenixNews/sc-gaFECQ/v1_index.m3u8    #电信
 凤凰资讯,http://141.95.85.201:6666/livehttpplay?channel_id=30015&fbl=$GWXL超清
+凤凰资讯,http://210.210.155.37/session/2298b226-ab8f-11ee-a65e-8dd584af7f12/uq2663/h/h157/S4/mnf.m3u8
 凤凰香港,http://141.95.85.201:6666/livehttpplay?channel_id=30016&fbl=$GWXL超清
 北京卫视,http://183.142.196.187:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
