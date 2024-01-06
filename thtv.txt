@@ -45,6 +45,7 @@ CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 凤凰资讯,http://210.210.155.37/session/2298b226-ab8f-11ee-a65e-8dd584af7f12/uq2663/h/h157/S4/mnf.m3u8
 凤凰资讯,http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 凤凰香港,http://141.95.85.201:6666/livehttpplay?channel_id=30016&fbl=$GWXL超清
+凤凰香港,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 北京卫视,http://183.142.196.187:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 东方卫视,http://183.142.196.187:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
