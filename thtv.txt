@@ -111,12 +111,12 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 
 📛上海频道,#genre#
-东方卫视,https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=53e215d97f719e3d7e9960908286c002&volcTime=1704680246
-都市,https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=a11fed7797ff5ac4379b1c6e540d6a40&txTime=659b5c6c
-新闻综合,https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=ce62d8fe13216e6e6ea3cfcb9540ed1f&volcTime=1704680369
-纪实人文,https://tencent-stream.kksmg.com/live/jspd.m3u8?txSecret=6489b2681942997709b82e9b94d3f7c6&txTime=659b5c41
+东方卫视,https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=f50dd9027eee223547eeeed89ce6c227&volcTime=1704932966
+都市,https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=632bd924c9f5b99690c43d670381aede&txTime=659f3725
+新闻综合,https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=6decff590854e2dbd60fded5911ae927&volcTime=1704933203
+纪实人文,https://tencent-stream.kksmg.com/live/jspd.m3u8?txSecret=e4b1ff8aadef4a132ceb88525a76a5eb&txTime=659f3783
 第1财经,https://1gradnmtzgyzdnpj1faauyqy.ourdvsss.com/ws-channels.kksmg.com/live/dycj/playlist.m3u8?wsSession=e3d2e697920036ea368b30f6-170459404415868&wsIPSercert=bfccf07e3642cd7a25321555a5e2b47a&wsiphost=local&wsBindIP=1
-哈哈炫动,https://tencent-stream.kksmg.com/live/hhxd.m3u8?txSecret=e026d3d0452aa8dfc6cb50d6c5e9af52&txTime=659b5c94
+哈哈炫动,https://tencent-stream.kksmg.com/live/hhxd.m3u8?txSecret=09a318565d743181464be3d0db97e902&txTime=659f379f
 
 📛浙江频道,#genre#
 嘉善新闻综合,https://play-hsbj.vzan.com/slowlive/633251673265558519/live.m3u8
